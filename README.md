@@ -23,11 +23,13 @@ En tercer lugar, con la base de datos instalada, analizamos las tablas y vemos l
 
 Una vez realizados los puntos anteriores, vemos las tablas que componen nuestra base de datos (imagen 1) y la relación que hay entre ellas (imagen 2).
 
-Imagen 1: Tablas de la base de datos
+- Imagen 1: Tablas de la base de datos
+
 ![Imagen tablas](./Imagen/Imagen1_tablas.png)
 
 
 
 - Imagen 2: Relación entre tablas de la base de datos
+
 ![Imagen esquema](./Imagen/Imagen2_esquema.png)
 
