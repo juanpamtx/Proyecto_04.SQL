@@ -33,3 +33,17 @@ Una vez realizados los puntos anteriores, vemos las tablas que componen nuestra 
 
 ![Imagen esquema](./Imagen/Imagen2_esquema.png)
 
+## Conclusiones ##
+
+Después de haber hecho todas la consultas, podemos concluir lo siguiente: 
+- Tenemos una tienda con 1.000 películas para alquilar.
+- Las películas se clasifican en:
+  
+  ![Imagen esquema](./Imagen/Imagen3_clasificacion.png)
+
+- Entre estas 5 clasificaciones, hay 16 géneros distintos:
+
+ ![Imagen esquema](./Imagen/Imagen4_género.png)
+
+ - La facturación total de la tienda: 67.416,51 €
+ 
